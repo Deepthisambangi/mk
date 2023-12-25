@@ -1,3 +1,3 @@
-#!bin/bash
+#!/bin/bash
 echo "version of git "
 git --version
